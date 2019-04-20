@@ -33,7 +33,7 @@ namespace Estructuras_Datos_TPE_Cola
                         break;
                     case 3:
                         System.Console.WriteLine("\n\n Modificar un nodo en la cola \n");
-                        //c.modificarNodo();
+                        c.modificarNodo();
                         break;
                     case 4:
                         System.Console.WriteLine("\n\n Eliminar un nodo en la cola \n");
