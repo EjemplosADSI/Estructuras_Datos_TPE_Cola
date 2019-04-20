@@ -1,0 +1,11 @@
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\bin\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.deps.json
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\bin\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.runtimeconfig.json
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\bin\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.runtimeconfig.dev.json
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\bin\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.dll
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\bin\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.pdb
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\obj\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.csprojAssemblyReference.cache
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\obj\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.csproj.CoreCompileInputs.cache
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\obj\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.AssemblyInfoInputs.cache
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\obj\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.AssemblyInfo.cs
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\obj\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.dll
+D:\DataUser\Desktop\MTA 98-361\Lesson 3\Estructuras_Datos_TPE_Cola\obj\Debug\netcoreapp2.2\Estructuras_Datos_TPE_Cola.pdb
