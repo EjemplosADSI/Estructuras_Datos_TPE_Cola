@@ -128,7 +128,8 @@ namespace Estructuras_Datos_TPE_Cola
                             Primero = Primero.Siguiente;
                         }else if ( Actual == Ultimo)
                         {
-
+                            Anterior.Siguiente = null;
+                            Ultimo = Anterior;
                         }
                         else
                         {
@@ -146,7 +147,6 @@ namespace Estructuras_Datos_TPE_Cola
                 {
                     System.Console.WriteLine("\n Nodo no encontrado\n");
                 }
-
             }
             else
             {
